@@ -241,7 +241,9 @@ class Song:
 		return ''
 
 
-z = Song()
+def play():
+	z = Song()
+	print(z)
 
 
 
