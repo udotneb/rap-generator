@@ -6,6 +6,6 @@ Replace gucci.txt with another text file of songs seperated by * to change lyric
 *** uses pipenv to handle dependencies ***
 
 with pipenv installed run the following commands:
-$ pipenv shell
-$ python3 -i rhymes.py
-$ play()
+$ pipenv shell  
+$ python3 -i rhymes.py  
+$ play()  
