@@ -75,7 +75,7 @@ class Block:
 	def __init__(self):
 		self.form_lst = []
 		self.song_form = []
-		x = open('gucci.txt','rt', encoding='latin1')
+		x = open('lyrics.txt','rt', encoding='latin1')
 		for line in x:
 			line = line.replace("'",'')
 			formed = Form(line).syl
