@@ -11,4 +11,4 @@ play()
 ```
 
 ## Example
-![Alt Text](https://github.com/udotneb/Sudoku-Solver/blob/master/example.gif)
+![Alt Text](https://github.com/udotneb/rap-generator/blob/master/example.gif)
